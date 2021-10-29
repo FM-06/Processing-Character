@@ -1,2 +1,2 @@
 # Processing-Character
-Robot image created in Processing.
+Robot character created in Processing.
